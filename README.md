@@ -1,6 +1,12 @@
 # provider_statemanagement
+Some basic level tasks done using provider concepts..
+![login](https://github.com/iabdulwahab7/Flutter-provider_tasks_statemanagement/assets/76598467/bce73348-a878-4d6a-a01f-8dbf620e281c)
+![Theme](https://github.com/iabdulwahab7/Flutter-provider_tasks_statemanagement/assets/76598467/3e26b31a-08ed-402c-8f3d-936fd90ed6f9)
+![favorite](https://github.com/iabdulwahab7/Flutter-provider_tasks_statemanagement/assets/76598467/29fddb08-3757-4d1b-9e08-7cbf457665e7)
+![count](https://github.com/iabdulwahab7/Flutter-provider_tasks_statemanagement/assets/76598467/f69fb429-5fbb-42d8-b191-6db0a7e92e8c)
+![slider](https://github.com/iabdulwahab7/Flutter-provider_tasks_statemanagement/assets/76598467/a0226146-4813-48d7-a0ce-8371a96b27b7)
 
-A new Flutter project.
+
 
 ## Getting Started
 
